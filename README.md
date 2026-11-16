@@ -47,4 +47,7 @@ El playbook se ejecutó correctamente en ambos servidores:
 - server1: 8 tareas correctas, 5 cambios y 0 errores.
 - server2: 8 tareas correctas, 5 cambios y 0 errores.
 
-Se adjunta una captura de pantalla del resultado de ejecución.
+Capturas de pantalla del resultado de ejecución:
+
+![Evidencia de ejecución_1](evidencia-1.png)
+![Evidencia de ejecución_2](evidencia-2.png)
